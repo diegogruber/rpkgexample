@@ -1,0 +1,13 @@
+Package: myapi
+Title: Demo API for GSE 2019
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "G",
+           family = "G",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Whatever
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
