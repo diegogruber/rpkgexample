@@ -1,2 +1,4 @@
 ^myapi\.Rproj$
 ^\.Rproj\.user$
+^packrat/
+^\.Rprofile$
